@@ -1,0 +1,10 @@
+GET http://the-internet.herokuapp.com/favicon.ico HTTP/1.1
+Host: the-internet.herokuapp.com
+Proxy-Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Referer: http://the-internet.herokuapp.com/login
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: optimizelySegments=%7B%7D; optimizelyEndUserId=oeu1675318991961r0.6098452334568931; optimizelyBuckets=%7B%7D; rack.session=BAh7CUkiD3Nlc3Npb25faWQGOgZFVEkiRWUzMTBkMzRlODU3NDg4MDhlYTM2%0AMDg3ZmU3Mjk2NzZhYjAxOGY2ZTFmNjUwMTAyN2EyNzBjMGIwMjZkYjdkNzgG%0AOwBGSSIJY3NyZgY7AEZJIiUxNGMwMDMwMWYwZGEyZjU4YzBiMGY4NTJkNDZl%0ANzFhZAY7AEZJIg10cmFja2luZwY7AEZ7B0kiFEhUVFBfVVNFUl9BR0VOVAY7%0AAFRJIi0zMDVmMmYwYTNkODczNzdmY2JjNmQ5YWE0NWUwMjM1ZmUyZmM5MTg3%0ABjsARkkiGUhUVFBfQUNDRVBUX0xBTkdVQUdFBjsAVEkiLWQ0ZTdkMzNmNGVi%0ANzNiY2U4ZmY3MDdjODBiNjlhYzU3ZWU1YzlmYmMGOwBGSSIKZmxhc2gGOwBG%0AewA%3D%0A--ea672f4180731449cfd4c7644de5fb8189555f09; optimizelyPendingLogEvents=%5B%22n%3Dhttp%253A%252F%252Fthe-internet.herokuapp.com%252Flogin%26u%3Doeu1675318991961r0.6098452334568931%26wxhr%3Dtrue%26t%3D1687503316115%26f%3D298349752%2C318188263%22%5D
+
